@@ -1,0 +1,17 @@
+{
+  "name": "aula5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.8",
+    "chia": "^0.0.1",
+    "mocha": "^10.2.0"
+  }
+}
