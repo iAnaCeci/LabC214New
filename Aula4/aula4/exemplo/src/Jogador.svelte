@@ -3,5 +3,5 @@
 </script>
 
 <div>
-    <button on:click ={acao}> Marcar GOL </button>
+    <button on:click={acao}> Marcar GOL </button>
 </div>
